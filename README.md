@@ -32,9 +32,8 @@ Optimizations for Quality:
 * Some simple histogram adjustment tools can do some processing on captured images before saving.
 
 Optimizations for Usability:
-* 'Setup Mode' allows for precise adjustment of camera before starting capture.
-<img  align="right"src="images/pifilm-capture.png">
-* Near-real-time view of captured images.
+* 'Setup Mode' allows for precise adjustment of camera before starting capture. 
+* Near-real-time view of captured images. <img  align="right" src="images/pifilm-capture.png">
 * Save/load settings, e.g. for different film types or projector setups.
 * 'Smart capture' features to adjust to dramatic lighting changes (under development)
 * Entire system can be moved from one projector to another to change film gauges.
